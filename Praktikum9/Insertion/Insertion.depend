@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1652034590 source:c:\users\hp\onedrive\documents\tugasalpro\insertion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+
